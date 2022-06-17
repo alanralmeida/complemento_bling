@@ -1,0 +1,3 @@
+// Relatórios (FastReport)
+ETIQUETAS			           RCDATA	    ".\recurso\Rel_Etiqueta.fr3"
+PEDIDOCOMPRA			       RCDATA	    ".\recurso\Rel_PedidoCompra.fr3"
